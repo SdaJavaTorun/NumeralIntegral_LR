@@ -93,9 +93,6 @@ public class ParabolicFunction {
                 System.out.println("Punkt leży na funkcji!!!");
                 //  i--;
             }
-            else{
-                System.out.println("Punkt poza zakresem obliczeń!!!");
-            }
             i--;
         }
         System.out.println("Czerwone: " + czerwone + " Niebieskie: " + niebieskie);
